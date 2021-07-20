@@ -1,0 +1,1 @@
+This explains how to use graphql queries for django backend.
